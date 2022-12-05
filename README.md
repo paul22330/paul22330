@@ -2,17 +2,17 @@
 
 ## 👦 Présentation.
 
-### Bientôt ici ! 
+###  Ici ! 
 
 
 ##  :mortar_board: Compétences.
 
-###  ici !
+###  Ici !
 
 
 ## Certification en ligne & diplôme.
 
-###  ici !
+###  Ici !
 
 
  

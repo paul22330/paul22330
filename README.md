@@ -5,7 +5,7 @@
 ###  Ici ! 
 
 
-##  :mortar_board: Compétences.
+## Compétences.
 
 ° Html, Css, Ruby On Rails.
 
@@ -14,12 +14,12 @@
 
 ## 🚀 Mes objectifs
 
-###  Ici !
 
 
-## Certification en ligne & diplôme.
 
-### Ici ! 
+##  :mortar_board:  Certification en ligne & diplôme.
+
+
 
 
  

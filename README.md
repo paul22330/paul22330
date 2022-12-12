@@ -7,9 +7,9 @@
 
 ##  :mortar_board: Compétences.
 
-### Html, Css, Ruby On Rails.
+° Html, Css, Ruby On Rails.
 
-### React + ViteJS, NodeJS, Python. (En apprentissage)
+° React + ViteJS, NodeJS, Python. (En apprentissage)
 
 
 ## 🚀 Mes objectifs

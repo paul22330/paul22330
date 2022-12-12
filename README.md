@@ -20,7 +20,7 @@
 
 
 
-##  :mortar_board:  Certification en ligne & diplôme.
+## :mortar_board:  Certification en ligne & diplôme.
 
 ° Ici!
 

@@ -2,7 +2,7 @@
 
 ## 👦 Mon Parcours.
 
-###  Ici ! 
+° Ici!
 
 
 ## Compétences.
@@ -16,12 +16,13 @@
 
 ## 🚀 Mes objectifs
 
+° Ici!
 
 
 
 ##  :mortar_board:  Certification en ligne & diplôme.
 
-
+° Ici!
 
 
  

@@ -11,6 +11,8 @@
 
 ° React + ViteJS, NodeJS, Python. (En apprentissage)
 
+° La cybersécurité, Osint.
+
 
 ## 🚀 Mes objectifs
 

@@ -22,7 +22,7 @@
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
-° Formation & Diplome. =>  CAP Pépignériste ( 2002 - 2004 )
+° Formation & Diplome CAP Pépignériste. ( 2002 - 2004 )
 
 ° Certfication Git & Github formation chez Believemy. => ( Mars 2021 )
 

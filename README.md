@@ -2,7 +2,7 @@
 
 ## 👦 Mon Parcours.
 
-[Présentation](https://lu.ma/saintange)
+° [Présentation](https://lu.ma/saintange)
 
 
 ## Compétences.
@@ -11,7 +11,7 @@
 
 ° React + ViteJS, NodeJS, Python. (En apprentissage)
 
-° La cybersécurité, Osint.
+° Cybersécurité, Osint.
 
 
 ## 🚀 Mes objectifs
@@ -21,6 +21,13 @@
 
 
 ## :mortar_board:  Certification en ligne & diplôme.
+
+° Certfication Git & Github formation chez Believemy.
+
+° Cetification Html & Css & Ruby on Rails formation chez The Hacking Project.
+
+
+
 
 
 

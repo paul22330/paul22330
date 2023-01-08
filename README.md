@@ -22,9 +22,11 @@
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
-° Certfication Git & Github formation chez Believemy.
+° Formation & Diplome initial. =>  CAP Pépignériste ( 2002 - 2004 )
 
-° Cetification Html & Css & Ruby on Rails formation chez The Hacking Project.
+° Certfication Git & Github formation chez Believemy. => ( Mars 2021 )
+
+° Cetification Html & Css & Ruby on Rails formation chez The Hacking Project. ( Avril 2021 )
 
 
 

@@ -7,7 +7,7 @@
 
 ## Compétences.
 
-° ![html](html.png)
+° ![html](html.png) ![css](css.png)
 
 ° React + ViteJS, NodeJS, Python. (En apprentissage)
 

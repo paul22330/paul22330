@@ -7,7 +7,7 @@
 
 ## Compétences.
 
-° Html, Css, Javascript, Ruby On Rails.
+° ![html](html.png)
 
 ° React + ViteJS, NodeJS, Python. (En apprentissage)
 

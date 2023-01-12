@@ -12,8 +12,7 @@
  #### 👇En apprentissage👇
  ![react](react.png) ![nodejs](nodejs.png) ![python3](python.png)
 
-° Cybersécurité, Osint.
-
+° 👉 Cybersécurité, Osint, recherche.
 
 ## 🚀 Mes objectifs
 

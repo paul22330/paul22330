@@ -12,13 +12,11 @@
  #### 👇En apprentissage👇
  ![react](react.png) ![nodejs](nodejs.png) ![python3](python.png)
 
-° 👉 Cybersécurité, Osint, recherche.
+° 👉 Cybersécurité, Osint, Recherche.
 
 ## 🚀 Mes objectifs
 
 ° Ici!
-
-
 
 ## :mortar_board:  Certification en ligne & diplôme.
 

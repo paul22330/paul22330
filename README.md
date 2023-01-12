@@ -14,9 +14,9 @@
  #### 👇En apprentissage👇
  ![react](react.png) ![nodejs](nodejs.png) ![python3](python.png)
  
- #### 👇Une passion👇
+ #### 👇Mes passions👇
 
- Cybersécurité, Osint, Recherche.
+ Ethical hacking, Cybersécurité, Osint, Recherche.
 
 ## 🚀 Mes objectifs
 

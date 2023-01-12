@@ -9,7 +9,7 @@
 
 ° ![html](html.png) ![css](css.png) ![javascript](javascript.png)
 
-° React + ViteJS, NodeJS, Python. (En apprentissage)
+° ![react](react.png) ViteJS, NodeJS, Python. (En apprentissage)
 
 ° Cybersécurité, Osint.
 

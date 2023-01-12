@@ -7,6 +7,8 @@
 
 ## Compétences.
 
+#### 👇En autodidacte👇
+
 ![html](html.png) ![css](css.png) ![javascript](javascript.png)
 
  #### 👇En apprentissage👇

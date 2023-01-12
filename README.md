@@ -9,7 +9,7 @@
 
 ° ![html](html.png) ![css](css.png) ![javascript](javascript.png)
 
-° ![react](react.png) ![nodejs](nodejs.png) (En apprentissage)
+° ![react](react.png) ![nodejs](nodejs.png) ![python3](python.png)
 
 ° Cybersécurité, Osint.
 

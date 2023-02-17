@@ -16,7 +16,7 @@
  
  #### 👇Mes passions👇
 
- Ethical hacking, Cybersécurité, Osint, Recherche.
+ Développement web, Ethical hacking, Cybersécurité, Osint, Recherche.
 
 ## 🚀 Mes objectifs
 

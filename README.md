@@ -20,7 +20,7 @@
 
 ## 🚀 Mes objectifs
 
-° Recherche un emploi.
+° 
 
 ## :mortar_board:  Certification en ligne & diplôme.
 

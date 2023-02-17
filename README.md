@@ -24,7 +24,7 @@
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
-° Formation Starting blocks l'emploi par le sport. (2023)
+° Formation Starting blocks l'emploi par le sport. (Janvier 2023)
 
 ° Formation & Diplome CAP Pépignériste. ( 2002 - 2004 )
 

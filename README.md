@@ -24,6 +24,8 @@
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
+° En formation chez LIVE à Valence actuellement.
+
 ° Formation Starting blocks l'emploi par le sport. (Janvier 2023)
 
 ° Formation & Diplome CAP Pépignériste. ( 2002 - 2004 )

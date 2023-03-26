@@ -20,7 +20,7 @@
 
 ## 🚀 Mes objectifs
 
-° 
+° Créer mon entreprise en portage salarial.
 
 ## :mortar_board:  Certification en ligne & diplôme.
 

@@ -26,13 +26,13 @@
 
 ° En accompagnement chez LIVE "L'institut des Vocations pour L'emploi" à Valence actuellement.
 
-° Formation Starting blocks l'emploi par le sport. (Janvier 2023)
+° Formation Starting blocks "l'emploi par le sport". (Janvier 2023)
 
 ° Formation & Diplome CAP Pépignériste. ( 2002 - 2004 )
 
-° Certfication Git & Github formation chez Believemy. => ( Mars 2021 )
+° Certfication Git & Github formation en ligne "chez Believemy". => ( Mars 2021 )
 
-° Cetification Html & Css & Ruby on Rails formation chez The Hacking Project. ( Avril 2021 )
+° Cetification Html & Css & Ruby on Rails formation en ligne "chez The Hacking Project". ( Avril 2021 )
 
 
 

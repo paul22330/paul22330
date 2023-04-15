@@ -24,7 +24,7 @@
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
-° En formation chez LIVE à Valence actuellement.
+° En accompagnement chez LIVE "l'institut des vocations pour l'emploi" à Valence actuellement.
 
 ° Formation Starting blocks l'emploi par le sport. (Janvier 2023)
 

@@ -32,7 +32,7 @@
 
 ° Certfication Git & Github formation en ligne "chez Believemy". => ( Mars 2021 )
 
-° Cetification Html & Css & Ruby on Rails formation en ligne "chez The Hacking Project". ( Avril 2021 )
+° Certification HTML & CSS & Ruby on Rails formation en ligne "chez The Hacking Project". ( Avril 2021 )
 
 
 

@@ -28,7 +28,7 @@
 
 ° Formation Starting blocks "l'emploi par le sport". (Janvier 2023)
 
-° Formation & Diplome CAP Pépignériste. ( 2002 - 2004 )
+° Formation & Diplôme CAP Pépiniériste. (2002 - 2004)
 
 ° Certfication Git & Github formation en ligne "chez Believemy". => ( Mars 2021 )
 

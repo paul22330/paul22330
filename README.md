@@ -26,7 +26,7 @@
 
 ° En accompagnement chez LIVE "L'institut des Vocations pour L'emploi" à Valence actuellement.
 
-° Formation Starting blocks "l'emploi par le sport". (Janvier 2023)
+°  Formation Startingblocks "l'emploi par le sport". (janvier 2023)
 
 ° Formation & Diplôme CAP Pépiniériste. (2002 - 2004)
 

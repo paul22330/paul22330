@@ -11,7 +11,7 @@
  
  #### 👇Mes passions👇
 
- Développement web, Ethical hacking, Cybersécurité, Osint, la Musique, les Voyages, la Littérature.
+ Développement web, Cybersécurité, Osint, la Musique, les Voyages, la Littérature.
 
 ## 🚀 Mes objectifs
 

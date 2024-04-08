@@ -15,7 +15,9 @@
 
 ## 🚀 Mes objectifs
 
-° Créer mon entreprise en portage salarial.
+° Me certifier en cybersécurité et en OSINT.
+
+° Créer mon entreprise.
 
 ## :mortar_board:  Certification en ligne & diplôme.
 

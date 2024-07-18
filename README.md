@@ -11,7 +11,7 @@
  
  #### 👇Mes passions👇
 
- Autodidacte développement web & cybersécurité &Osint, la Musique, les Voyages, la Littérature.
+ Autodidacte développement web & cybersécurité & Osint.
 
 ## 🚀 Mes objectifs
 

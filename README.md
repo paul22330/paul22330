@@ -2,34 +2,35 @@
 
 ## Compétences.
 
-#### 👇En autodidacte👇
+-
 
-![html](html.png) ![css](css.png) ![javascript](javascript.png)  ![wordpress](wordpress.png)
+-
 
- #### 👇En apprentissage👇
- ![react](react.png) ![nodejs](nodejs.png) ![python3](python.png)
+-
+
  
  #### 👇Mes passions👇
 
- Développement web, Cybersécurité, Osint, la Musique, les Voyages, la Littérature.
+ Autodidacte développement web & cybersécurité &Osint, la Musique, les Voyages, la Littérature.
 
 ## 🚀 Mes objectifs
 
-° Me certifier en cybersécurité et en OSINT.
+° Passage de certification en cybersécurité & OSINT.
 
-° Créer mon entreprise.
+° Création d'une entreprise.
 
 ## :mortar_board:  Certification en ligne & diplôme.
 
-° En accompagnement chez LIVE "L'institut des Vocations pour L'emploi" à Valence actuellement.
+° Formation & Diplôme CAP Pépiniériste (en 2002 - 2004).
 
-°  Formation Startingblocks "l'emploi par le sport". (janvier 2023)
+° Certfication Git & Github formation en ligne chez Believemy (en 2021).
 
-° Formation & Diplôme CAP Pépiniériste. (2002 - 2004)
+° Certification HTML & CSS & Ruby on Rails formation en ligne chez The Hacking Project (en 2021).
 
-° Certfication Git & Github formation en ligne "chez Believemy". => ( Mars 2021 )
+° Accompagnement chez LIVE "L'institut des Vocations pour L'emploi à Valence (en 2023).
 
-° Certification HTML & CSS & Ruby on Rails formation en ligne "chez The Hacking Project". ( Avril 2021 )
+°  Formation Startingblocks l'emploi par le sport à Valence (en 2023).
+
 
 
 

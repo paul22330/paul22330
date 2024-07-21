@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/paul22330/paul22330/master/Banniere linkedin -officiel.png" alt="Banniere Saintange Paul">
+<img src="https://i.postimg.cc/xd440jL9/Nouvelle-Banniere-Linkedin.jpg" alt="Banniere Saintange Paul">
 
 ## Compétences.
 
